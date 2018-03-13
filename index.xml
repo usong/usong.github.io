@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>usong&#39;s blog</title>
-    <link>/</link>
+    <link>https://usong.github.io/</link>
     <description>Recent content on usong&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://usong.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于</title>
-      <link>/about/</link>
+      <link>https://usong.github.io/about/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://usong.github.io/about/</guid>
       <description>&amp;gt; whoami [1] 梦想家  </description>
     </item>
     
